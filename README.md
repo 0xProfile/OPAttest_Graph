@@ -14,6 +14,10 @@ It enables cross-chain attestation, breaking down barriers between different net
 
 Credence has built a custom GraphQL API that indexes data from the Optimism's AttestationStation smart contract and enables users to understand their on-chain reputation and identity with low latency. As Optimism’s AttestationStation grows, our Graph will be more important than ever for product owners to fetch their user’s reputations and identity. 
 
+Usage of TheGraph
+* [Queries](https://github.com/0xProfile/Credence_op/blob/main/src/constants/querys/index.ts)
+  * API indexes data from the Optimism's AttestationStation smart contract and enables users to understand their on-chain reputation and identity with low latency
+
 ## Install
 
 ```
